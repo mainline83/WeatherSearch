@@ -36,9 +36,9 @@ li:first-letter {
 }
 
 .weather-app {
-  background: linear-gradient(to top, 106.7deg, rgb(245, 167, 191) -6.2%, rgb(201, 218, 238) 46.4%, rgb(164, 240, 229) 86.4%);
+  background:linear-gradient( 106.7deg, rgb(245, 167, 191) -6.2%, rgb(201, 218, 238) 46.4%, rgb(164, 240, 229) 86.4%);
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #043b83;
   border-radius: 5px;
 }
 
