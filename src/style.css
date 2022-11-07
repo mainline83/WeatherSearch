@@ -1,9 +1,9 @@
 body {
-  font-family: arial, sans-serif;
+  font-family: Pacifico;
 }
 
 h1 {
-  color: #878787;
+  color: #000000;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -20,7 +20,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: rgb(33, 161, 235);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
